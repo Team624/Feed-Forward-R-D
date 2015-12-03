@@ -30,6 +30,7 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
+		<Item Name="Trapezoidal Profile Lookup Setpoints.vi" Type="VI" URL="../Robot Code/Drivetrain/Trapezoidal Profile Lookup Setpoints.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
@@ -229,6 +230,7 @@
 			</Item>
 			<Item Name="lvinput.dll" Type="Document" URL="/&lt;resource&gt;/lvinput.dll"/>
 			<Item Name="DStoPCPacketTypeDef.ctl" Type="VI" URL="../Dashboard Code/DStoPCPacketTypeDef.ctl"/>
+			<Item Name="Trapezoidal Motion State.ctl" Type="VI" URL="../Robot Code/Drivetrain/Trapezoidal Motion State.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
